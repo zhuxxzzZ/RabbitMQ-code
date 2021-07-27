@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RabbitMQ-topic" />
+        <module name="RabbitMQ-work" />
+        <module name="RabbitMQ-route" />
+        <module name="RabbitMQ-publish" />
+        <module name="RabbitMQ-TTLQueue" />
+        <module name="RabbitMQ-DeadQueue" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="RabbitMQ-DeadQueue" target="1.8" />
+      <module name="RabbitMQ-publish" target="1.8" />
+      <module name="RabbitMQ-route" target="1.8" />
+      <module name="RabbitMQ-simple" target="1.8" />
+      <module name="RabbitMQ-topic" target="1.8" />
+      <module name="RabbitMQ-TTLQueue" target="1.8" />
+      <module name="RabbitMQ-work" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
