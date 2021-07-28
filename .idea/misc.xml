@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/RabbitMQ-publish/pom.xml" />
         <option value="$PROJECT_DIR$/RabbitMQ-TTLQueue/pom.xml" />
         <option value="$PROJECT_DIR$/RabbitMQ-DeadQueue/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-PublishPro/pom.xml" />
       </list>
     </option>
   </component>

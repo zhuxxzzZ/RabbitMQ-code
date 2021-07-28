@@ -9,15 +9,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="RabbitMQ-topic" />
         <module name="RabbitMQ-work" />
-        <module name="RabbitMQ-route" />
         <module name="RabbitMQ-publish" />
-        <module name="RabbitMQ-TTLQueue" />
         <module name="RabbitMQ-DeadQueue" />
+        <module name="RabbitMQ-PublishPro" />
+        <module name="RabbitMQ-route" />
+        <module name="RabbitMQ-TTLQueue" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="RabbitMQ-DeadQueue" target="1.8" />
       <module name="RabbitMQ-publish" target="1.8" />
+      <module name="RabbitMQ-PublishPro" target="1.8" />
       <module name="RabbitMQ-route" target="1.8" />
       <module name="RabbitMQ-simple" target="1.8" />
       <module name="RabbitMQ-topic" target="1.8" />

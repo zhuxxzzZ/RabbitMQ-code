@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/RabbitMQ.iml" filepath="$PROJECT_DIR$/.idea/RabbitMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ-DeadQueue/RabbitMQ-DeadQueue.iml" filepath="$PROJECT_DIR$/RabbitMQ-DeadQueue/RabbitMQ-DeadQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ-PublishPro/RabbitMQ-PublishPro.iml" filepath="$PROJECT_DIR$/RabbitMQ-PublishPro/RabbitMQ-PublishPro.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ-TTLQueue/RabbitMQ-TTLQueue.iml" filepath="$PROJECT_DIR$/RabbitMQ-TTLQueue/RabbitMQ-TTLQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ-publish/RabbitMQ-publish.iml" filepath="$PROJECT_DIR$/RabbitMQ-publish/RabbitMQ-publish.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ-route/RabbitMQ-route.iml" filepath="$PROJECT_DIR$/RabbitMQ-route/RabbitMQ-route.iml" />
